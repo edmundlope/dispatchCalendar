@@ -3,5 +3,7 @@
 	
 	echo "<br/>";
 	
-	echo "MY FIRST REPO.";
+	echo "This is will be a repo for Events Calendar for Dispatch use.";
+	
+	
 ?>
